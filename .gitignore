@@ -1,0 +1,6 @@
+/bitrix/*
+/.idea/*
+/upload/*
+/phpmyadmin/*
+/vendor/*
+/bin/*
